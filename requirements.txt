@@ -3,12 +3,4 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-tensorflow
-keras
-flask
-gunicorn
-requests
-beautifulsoup4
-pytest
--e.
-setuptools
+#-e .
